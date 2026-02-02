@@ -43,7 +43,7 @@
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "logoAlt": "We tab Logo"
+            "logoAlt": "Wa tab Logo"
         },
         "nav": {
             "signUp": "Sign Up",
@@ -54,7 +54,7 @@
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "copyright": "We tab"
+            "copyright": "Wa tab"
         }
     },
     "pages": [
@@ -67,9 +67,9 @@
             "isDefault": true,
             "sections": {
                 "seo": {
-                    "name": "We tab",
-                    "title": "We tab — Premier Online Casino Australia | 500% Bonus",
-                    "description": "Play at We tab, Australia's trusted online casino. Enjoy 3500+ pokies, live dealer games, sports betting and instant PayID withdrawals. Join now!\n",
+                    "name": "Wa tab",
+                    "title": "Wa tab — Premier Online Casino Australia | 500% Bonus",
+                    "description": "Play at Wa tab, Australia's trusted online casino. Enjoy 3500+ pokies, live dealer games, sports betting and instant PayID withdrawals. Join now!\n",
                     "canonical": "tab-online.com",
                     "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2381",
                     "ogImageWidth": 1200,
@@ -125,14 +125,14 @@
                     ],
                     "advantagesAfterText": "Join thousands of Australian players enjoying secure gaming with instant payouts. Our dedicated support team understands local banking and is ready to assist you anytime.\n",
                     "knowMore": "Know more",
-                    "appTitle": "We tab App",
+                    "appTitle": "Wa tab App",
                     "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2385",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
-                    "mobileAlt": "We tab App",
-                    "mobileGooglePlayImageTitle": "We tab App",
-                    "mobileIosImageTitle": "We tab App"
+                    "mobileAlt": "Wa tab App",
+                    "mobileGooglePlayImageTitle": "Wa tab App",
+                    "mobileIosImageTitle": "Wa tab App"
                 },
                 "games": {
                     "playNowText": "Play now",
@@ -141,7 +141,7 @@
                 },
                 "about": {
                     "history": {
-                        "title": "About We tab Casino",
+                        "title": "About Wa tab Casino",
                         "description1": "We are Australia's premier online casino combining world-class gaming with sports betting. Our commitment to local players has made us a trusted brand. We feature premium games from global providers with Australian expertise.\n",
                         "items": [
                             "Launched comprehensive online casino platform with 3500+ games",
@@ -177,7 +177,7 @@
                     "title": "Frequently Asked Questions",
                     "items": [
                         {
-                            "title": "How do I register an account with We tab Casino?",
+                            "title": "How do I register an account with Wa tab Casino?",
                             "answer": "Click the Join Now button, complete the registration form with your personal details, verify your email address, and upload identification documents. Our verification team processes applications within hours, and you can start playing immediately after approval. The entire process takes less than 10 minutes.\n"
                         },
                         {
